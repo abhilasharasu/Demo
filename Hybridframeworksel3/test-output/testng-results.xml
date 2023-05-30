@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-27T15:48:07 IST" name="Default suite" finished-at="2023-05-27T15:48:08 IST" duration-ms="895">
+    <groups>
+    </groups>
+    <test started-at="2023-05-27T15:48:07 IST" name="Default test" finished-at="2023-05-27T15:48:08 IST" duration-ms="895">
+      <class name="Reports.extreprt">
+        <test-method signature="test1()[pri:0, instance:Reports.extreprt@ea6147e]" started-at="2023-05-27T15:48:07 IST" name="test1" finished-at="2023-05-27T15:48:08 IST" duration-ms="761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- Reports.extreprt -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
